@@ -3,7 +3,7 @@
 ## Repository structure and contents
     .
     ├── tutorial_SparkConnect.ipynb                                 # notebook about introduction to Spark Connect     
-    ├── SparkConnect_intro.pdf                                      # presentation about introduction to Spark Connect
+    ├── SparkConnect_presentation.pdf                               # presentation about introduction to Spark Connect
     ├── BDA_project.ipynb                                           # notebook containing the BDA project
     ├── LICENSE
     └── README.md
